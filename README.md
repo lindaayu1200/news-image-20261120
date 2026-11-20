@@ -7,11 +7,11 @@ the Houthi strike on a Riyadh tower, Türkiye's Kizilelma drone fighter
 entering service, South Korea's exports topping $1 trillion, Kenya's marathon
 champion Peres Jepchirchir banned for doping, and the GTA VI global launch.
 
-![competition](https://make.fun/badge/news-image-20261120.svg)
-![rank](https://make.fun/badge/news-image-20261120/lindaayu1200/news-image-20261120/rank.svg)
-![reward](https://make.fun/badge/news-image-20261120/lindaayu1200/news-image-20261120/reward.svg)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/lindaayu1200/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/lindaayu1200/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
-Competition page: https://make.fun/c/news-image-20261120
+Competition page: https://make.fun/bounty/news-image-20261120
 
 ## How it works
 
